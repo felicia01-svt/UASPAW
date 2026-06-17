@@ -8,7 +8,6 @@ use Illuminate\Support\Facades\Auth;
 
 class NoteController extends Controller
 {
-    // ─── Dashboard / Index ────────────────────────────────────────────────────
 
     public function index()
     {
